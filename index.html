@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SharpLine Daily</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Instrument+Serif:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">Daily market edges</p>
+        <h1>Adjusted spreads filtered for <span>85%+ confidence</span>.</h1>
+        <p class="hero-text">
+          A daily board for NCAA Basketball, NBA, MLB, and more. We compare books,
+          estimate a fair spread, and only surface plays that clear your confidence threshold.
+        </p>
+      </div>
+      <div class="hero-card">
+        <p class="hero-card-label">Today’s feed</p>
+        <p class="hero-card-value" id="lastUpdated">Loading...</p>
+        <p class="hero-card-meta" id="feedSource">Preparing live board...</p>
+        <p class="hero-card-note">Consensus lines from multiple books, adjusted into one ranked slate.</p>
+      </div>
+    </header>
+
+    <main>
+      <section class="toolbar">
+        <div class="toolbar-block">
+          <label for="sportFilter">Sport</label>
+          <select id="sportFilter">
+            <option value="ALL">All sports</option>
+          </select>
+        </div>
+        <div class="toolbar-block">
+          <label for="confidenceFilter">Minimum confidence</label>
+          <input id="confidenceFilter" type="range" min="85" max="99" step="1" value="85">
+          <span id="confidenceValue">85%</span>
+        </div>
+        <div class="toolbar-block toolbar-stats">
+          <span class="stats-label">Qualified plays</span>
+          <strong id="qualifiedCount">0</strong>
+        </div>
+      </section>
+
+      <section class="summary-grid" id="summaryGrid"></section>
+
+      <section class="board">
+        <div class="board-header">
+          <div>
+            <p class="eyebrow">Board</p>
+            <h2>Eligible adjusted lines</h2>
+          </div>
+          <p class="board-note">Only games with projected confidence at or above the selected threshold are shown.</p>
+        </div>
+        <div class="cards" id="cards"></div>
+        <div class="empty-state hidden" id="emptyState">
+          <h3>No games match the current filter.</h3>
+          <p>Lower the confidence slider or switch to a different sport to see more opportunities.</p>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <template id="gameCardTemplate">
+    <article class="game-card">
+      <div class="game-card-top">
+        <div>
+          <p class="sport-tag"></p>
+          <h3 class="matchup"></h3>
+        </div>
+        <div class="confidence-pill"></div>
+      </div>
+      <p class="start-time"></p>
+      <div class="line-grid">
+        <div>
+          <span>Consensus spread</span>
+          <strong class="consensus-spread"></strong>
+        </div>
+        <div>
+          <span>Adjusted spread</span>
+          <strong class="adjusted-spread"></strong>
+        </div>
+        <div>
+          <span>Recommended side</span>
+          <strong class="recommended-side"></strong>
+        </div>
+        <div>
+          <span>Edge</span>
+          <strong class="edge-value"></strong>
+        </div>
+      </div>
+      <div class="sportsbooks">
+        <span>Books tracked</span>
+        <ul class="sportsbook-list"></ul>
+      </div>
+      <p class="notes"></p>
+    </article>
+  </template>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

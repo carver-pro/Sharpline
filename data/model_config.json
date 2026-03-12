@@ -1,0 +1,23 @@
+{
+  "global": {
+    "home_advantage": 0.35,
+    "dispersion_weight": 0.4,
+    "edge_to_confidence": 7.5,
+    "agreement_weight": 12.0,
+    "min_books": 2
+  },
+  "sports": {
+    "NCAA Basketball": {
+      "home_advantage": 0.9,
+      "dispersion_weight": 0.45
+    },
+    "NBA": {
+      "home_advantage": 0.75,
+      "dispersion_weight": 0.35
+    },
+    "MLB": {
+      "home_advantage": 0.2,
+      "dispersion_weight": 0.3
+    }
+  }
+}

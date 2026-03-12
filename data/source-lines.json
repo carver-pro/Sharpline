@@ -1,0 +1,78 @@
+{
+  "games": [
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-11T19:00:00-04:00",
+      "home_team": "Duke",
+      "away_team": "North Carolina",
+      "model_home_spread": -6.0,
+      "model_confidence": 89,
+      "notes": "Model likes the favorite after adjusting for recent efficiency, rest edge, and lineup continuity.",
+      "lines": [
+        {"sportsbook": "DraftKings", "home_spread": -4.5},
+        {"sportsbook": "FanDuel", "home_spread": -4.0},
+        {"sportsbook": "BetMGM", "home_spread": -5.0},
+        {"sportsbook": "Caesars", "home_spread": -4.5}
+      ]
+    },
+    {
+      "sport": "NBA",
+      "start_time": "2026-03-11T20:10:00-04:00",
+      "home_team": "Boston Celtics",
+      "away_team": "Miami Heat",
+      "model_home_spread": -9.0,
+      "model_confidence": 92,
+      "notes": "Consensus is shorter than the adjusted line after weighting net rating splits and injury status.",
+      "lines": [
+        {"sportsbook": "DraftKings", "home_spread": -7.0},
+        {"sportsbook": "FanDuel", "home_spread": -6.5},
+        {"sportsbook": "ESPN BET", "home_spread": -7.5},
+        {"sportsbook": "BetRivers", "home_spread": -7.0}
+      ]
+    },
+    {
+      "sport": "MLB",
+      "start_time": "2026-03-11T21:40:00-04:00",
+      "home_team": "Los Angeles Dodgers",
+      "away_team": "San Diego Padres",
+      "model_home_spread": -2.0,
+      "model_confidence": 86,
+      "notes": "Pitching matchup and bullpen freshness move the fair spread half a run beyond market.",
+      "lines": [
+        {"sportsbook": "DraftKings", "home_spread": -1.5},
+        {"sportsbook": "FanDuel", "home_spread": -1.5},
+        {"sportsbook": "Caesars", "home_spread": -1.0}
+      ]
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-11T21:00:00-04:00",
+      "home_team": "Houston",
+      "away_team": "Baylor",
+      "model_home_spread": -8.0,
+      "model_confidence": 95,
+      "notes": "Highest-rated edge on the board after opponent turnover profile and home-court weighting.",
+      "lines": [
+        {"sportsbook": "DraftKings", "home_spread": -5.5},
+        {"sportsbook": "FanDuel", "home_spread": -5.0},
+        {"sportsbook": "BetMGM", "home_spread": -5.5},
+        {"sportsbook": "Caesars", "home_spread": -6.0},
+        {"sportsbook": "bet365", "home_spread": -5.5}
+      ]
+    },
+    {
+      "sport": "NBA",
+      "start_time": "2026-03-11T22:00:00-04:00",
+      "home_team": "Denver Nuggets",
+      "away_team": "Phoenix Suns",
+      "model_home_spread": -5.0,
+      "model_confidence": 84,
+      "notes": "Included in the feed, but hidden by default because confidence is below the 85% threshold.",
+      "lines": [
+        {"sportsbook": "DraftKings", "home_spread": -4.0},
+        {"sportsbook": "BetMGM", "home_spread": -4.0},
+        {"sportsbook": "FanDuel", "home_spread": -4.0}
+      ]
+    }
+  ]
+}

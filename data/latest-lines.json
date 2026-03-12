@@ -1,0 +1,1783 @@
+{
+  "generated_at": "2026-03-11T21:41:08-04:00",
+  "source": {
+    "provider": "The Odds API",
+    "markets": "spreads",
+    "sports": [
+      "basketball_ncaab",
+      "basketball_nba",
+      "baseball_mlb"
+    ],
+    "model": "Local transparent heuristic"
+  },
+  "games": [
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T00:36:00Z",
+      "home_team": "Florida A&M Rattlers",
+      "away_team": "Jackson St Tigers",
+      "consensus": {
+        "favorite": "Florida A&M Rattlers",
+        "spread": -1.1
+      },
+      "adjusted": {
+        "favorite": "Florida A&M Rattlers",
+        "spread": -2.9
+      },
+      "recommended_side": {
+        "team": "Florida A&M Rattlers",
+        "line": -1.1
+      },
+      "edge": 1.8,
+      "confidence": 76,
+      "sportsbooks": [
+        "FanDuel",
+        "DraftKings",
+        "BetRivers",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 4 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Florida A&M Rattlers."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T00:39:38Z",
+      "home_team": "Abilene Christian Wildcats",
+      "away_team": "Tarleton State Texans",
+      "consensus": {
+        "favorite": "Abilene Christian Wildcats",
+        "spread": -12.2
+      },
+      "adjusted": {
+        "favorite": "Abilene Christian Wildcats",
+        "spread": -13.4
+      },
+      "recommended_side": {
+        "team": "Abilene Christian Wildcats",
+        "line": -12.2
+      },
+      "edge": 1.2,
+      "confidence": 82,
+      "sportsbooks": [
+        "DraftKings",
+        "FanDuel",
+        "BetRivers",
+        "BetMGM",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 5 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Abilene Christian Wildcats."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T01:02:58Z",
+      "home_team": "UC San Diego Tritons",
+      "away_team": "Cal Poly Mustangs",
+      "consensus": {
+        "favorite": "Cal Poly Mustangs",
+        "spread": -2.6
+      },
+      "adjusted": {
+        "favorite": "Cal Poly Mustangs",
+        "spread": -4.0
+      },
+      "recommended_side": {
+        "team": "Cal Poly Mustangs",
+        "line": -2.6
+      },
+      "edge": 1.4,
+      "confidence": 78,
+      "sportsbooks": [
+        "DraftKings",
+        "FanDuel",
+        "BetRivers",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 4 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Cal Poly Mustangs."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T01:05:38Z",
+      "home_team": "Colorado St Rams",
+      "away_team": "Fresno St Bulldogs",
+      "consensus": {
+        "favorite": "Colorado St Rams",
+        "spread": -3.8
+      },
+      "adjusted": {
+        "favorite": "Colorado St Rams",
+        "spread": -5.1
+      },
+      "recommended_side": {
+        "team": "Colorado St Rams",
+        "line": -3.8
+      },
+      "edge": 1.3,
+      "confidence": 79,
+      "sportsbooks": [
+        "DraftKings",
+        "FanDuel",
+        "BetRivers",
+        "BetMGM",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 5 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Colorado St Rams."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T01:08:39Z",
+      "home_team": "Minnesota Golden Gophers",
+      "away_team": "Rutgers Scarlet Knights",
+      "consensus": {
+        "favorite": "Minnesota Golden Gophers",
+        "spread": -6.2
+      },
+      "adjusted": {
+        "favorite": "Minnesota Golden Gophers",
+        "spread": -7.5
+      },
+      "recommended_side": {
+        "team": "Minnesota Golden Gophers",
+        "line": -6.2
+      },
+      "edge": 1.3,
+      "confidence": 79,
+      "sportsbooks": [
+        "DraftKings",
+        "FanDuel",
+        "BetRivers",
+        "BetMGM",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 5 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Minnesota Golden Gophers."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T01:14:37Z",
+      "home_team": "Sam Houston St Bearkats",
+      "away_team": "New Mexico St Aggies",
+      "consensus": {
+        "favorite": "Sam Houston St Bearkats",
+        "spread": -8.1
+      },
+      "adjusted": {
+        "favorite": "Sam Houston St Bearkats",
+        "spread": -9.2
+      },
+      "recommended_side": {
+        "team": "Sam Houston St Bearkats",
+        "line": -8.1
+      },
+      "edge": 1.1,
+      "confidence": 82,
+      "sportsbooks": [
+        "FanDuel",
+        "DraftKings",
+        "BetRivers",
+        "BetMGM",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 5 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Sam Houston St Bearkats."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T01:15:03Z",
+      "home_team": "DePaul Blue Demons",
+      "away_team": "Georgetown Hoyas",
+      "consensus": {
+        "favorite": "DePaul Blue Demons",
+        "spread": -4.4
+      },
+      "adjusted": {
+        "favorite": "DePaul Blue Demons",
+        "spread": -5.4
+      },
+      "recommended_side": {
+        "team": "DePaul Blue Demons",
+        "line": -4.4
+      },
+      "edge": 1.0,
+      "confidence": 85,
+      "sportsbooks": [
+        "FanDuel",
+        "DraftKings",
+        "BetRivers",
+        "BetMGM",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 5 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning DePaul Blue Demons."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T01:30:00Z",
+      "home_team": "Florida Atlantic Owls",
+      "away_team": "Temple Owls",
+      "consensus": {
+        "favorite": "Temple Owls",
+        "spread": -0.6
+      },
+      "adjusted": {
+        "favorite": "Temple Owls",
+        "spread": -2.0
+      },
+      "recommended_side": {
+        "team": "Temple Owls",
+        "line": -0.6
+      },
+      "edge": 1.4,
+      "confidence": 78,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "DraftKings",
+        "FanDuel",
+        "BetRivers",
+        "BetMGM",
+        "BetUS"
+      ],
+      "notes": "Live consensus from 7 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Temple Owls."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T01:38:00Z",
+      "home_team": "Clemson Tigers",
+      "away_team": "Wake Forest Demon Deacons",
+      "consensus": {
+        "favorite": "Clemson Tigers",
+        "spread": -5.6
+      },
+      "adjusted": {
+        "favorite": "Clemson Tigers",
+        "spread": -6.6
+      },
+      "recommended_side": {
+        "team": "Clemson Tigers",
+        "line": -5.6
+      },
+      "edge": 1.0,
+      "confidence": 86,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "FanDuel",
+        "DraftKings",
+        "BetRivers",
+        "BetMGM",
+        "Bovada",
+        "BetUS"
+      ],
+      "notes": "Live consensus from 8 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Clemson Tigers."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T01:40:23Z",
+      "home_team": "Oklahoma Sooners",
+      "away_team": "South Carolina Gamecocks",
+      "consensus": {
+        "favorite": "Oklahoma Sooners",
+        "spread": -7.8
+      },
+      "adjusted": {
+        "favorite": "Oklahoma Sooners",
+        "spread": -8.9
+      },
+      "recommended_side": {
+        "team": "Oklahoma Sooners",
+        "line": -7.8
+      },
+      "edge": 1.1,
+      "confidence": 84,
+      "sportsbooks": [
+        "FanDuel",
+        "DraftKings",
+        "BetRivers",
+        "LowVig.ag",
+        "BetOnline.ag",
+        "BetMGM",
+        "BetUS",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 8 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Oklahoma Sooners."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T01:43:00Z",
+      "home_team": "TCU Horned Frogs",
+      "away_team": "Oklahoma St Cowboys",
+      "consensus": {
+        "favorite": "TCU Horned Frogs",
+        "spread": -7.5
+      },
+      "adjusted": {
+        "favorite": "TCU Horned Frogs",
+        "spread": -8.4
+      },
+      "recommended_side": {
+        "team": "TCU Horned Frogs",
+        "line": -7.5
+      },
+      "edge": 0.9,
+      "confidence": 87,
+      "sportsbooks": [
+        "DraftKings",
+        "BetOnline.ag",
+        "LowVig.ag",
+        "FanDuel",
+        "BetMGM",
+        "BetRivers",
+        "Bovada",
+        "BetUS"
+      ],
+      "notes": "Live consensus from 8 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning TCU Horned Frogs."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T03:30:00Z",
+      "home_team": "Boise State Broncos",
+      "away_team": "San Jos\u00e9 St Spartans",
+      "consensus": {
+        "favorite": "Boise State Broncos",
+        "spread": -14.4
+      },
+      "adjusted": {
+        "favorite": "Boise State Broncos",
+        "spread": -15.4
+      },
+      "recommended_side": {
+        "team": "Boise State Broncos",
+        "line": -14.4
+      },
+      "edge": 1.0,
+      "confidence": 86,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "DraftKings",
+        "FanDuel",
+        "BetRivers",
+        "BetMGM",
+        "BetUS",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 8 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Boise State Broncos."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T03:30:00Z",
+      "home_team": "Montana Grizzlies",
+      "away_team": "Idaho Vandals",
+      "consensus": {
+        "favorite": "Idaho Vandals",
+        "spread": -3.6
+      },
+      "adjusted": {
+        "favorite": "Idaho Vandals",
+        "spread": -4.6
+      },
+      "recommended_side": {
+        "team": "Idaho Vandals",
+        "line": -3.6
+      },
+      "edge": 1.0,
+      "confidence": 86,
+      "sportsbooks": [
+        "DraftKings",
+        "LowVig.ag",
+        "BetOnline.ag",
+        "BetRivers",
+        "FanDuel",
+        "BetMGM",
+        "Bovada",
+        "BetUS"
+      ],
+      "notes": "Live consensus from 8 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Idaho Vandals."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T03:30:00Z",
+      "home_team": "UC Davis Aggies",
+      "away_team": "UC Santa Barbara Gauchos",
+      "consensus": {
+        "favorite": "UC Santa Barbara Gauchos",
+        "spread": -4.5
+      },
+      "adjusted": {
+        "favorite": "UC Santa Barbara Gauchos",
+        "spread": -5.4
+      },
+      "recommended_side": {
+        "team": "UC Santa Barbara Gauchos",
+        "line": -4.5
+      },
+      "edge": 0.9,
+      "confidence": 87,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "FanDuel",
+        "BetRivers",
+        "DraftKings",
+        "BetUS",
+        "Bovada",
+        "BetMGM"
+      ],
+      "notes": "Live consensus from 8 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning UC Santa Barbara Gauchos."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T15:00:00Z",
+      "home_team": "Miami (OH) RedHawks",
+      "away_team": "Massachusetts Minutemen",
+      "consensus": {
+        "favorite": "Miami (OH) RedHawks",
+        "spread": -7.6
+      },
+      "adjusted": {
+        "favorite": "Miami (OH) RedHawks",
+        "spread": -8.6
+      },
+      "recommended_side": {
+        "team": "Miami (OH) RedHawks",
+        "line": -7.6
+      },
+      "edge": 1.0,
+      "confidence": 85,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "DraftKings",
+        "FanDuel",
+        "BetRivers",
+        "Bovada",
+        "BetUS"
+      ],
+      "notes": "Live consensus from 7 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Miami (OH) RedHawks."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T15:30:00Z",
+      "home_team": "Fordham Rams",
+      "away_team": "GW Revolutionaries",
+      "consensus": {
+        "favorite": "GW Revolutionaries",
+        "spread": -6.1
+      },
+      "adjusted": {
+        "favorite": "GW Revolutionaries",
+        "spread": -7.1
+      },
+      "recommended_side": {
+        "team": "GW Revolutionaries",
+        "line": -6.1
+      },
+      "edge": 1.0,
+      "confidence": 84,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "FanDuel",
+        "BetRivers",
+        "BetMGM",
+        "Bovada",
+        "BetUS"
+      ],
+      "notes": "Live consensus from 7 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning GW Revolutionaries."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T16:00:00Z",
+      "home_team": "Ohio State Buckeyes",
+      "away_team": "Iowa Hawkeyes",
+      "consensus": {
+        "favorite": "Ohio State Buckeyes",
+        "spread": -0.4
+      },
+      "adjusted": {
+        "favorite": "Ohio State Buckeyes",
+        "spread": -1.7
+      },
+      "recommended_side": {
+        "team": "Ohio State Buckeyes",
+        "line": -0.4
+      },
+      "edge": 1.3,
+      "confidence": 79,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "FanDuel",
+        "DraftKings",
+        "BetRivers",
+        "BetUS",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 7 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Ohio State Buckeyes."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T16:00:00Z",
+      "home_team": "Virginia Cavaliers",
+      "away_team": "NC State Wolfpack",
+      "consensus": {
+        "favorite": "Virginia Cavaliers",
+        "spread": -5.6
+      },
+      "adjusted": {
+        "favorite": "Virginia Cavaliers",
+        "spread": -6.6
+      },
+      "recommended_side": {
+        "team": "Virginia Cavaliers",
+        "line": -5.6
+      },
+      "edge": 1.0,
+      "confidence": 84,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "DraftKings",
+        "FanDuel",
+        "BetRivers",
+        "BetUS",
+        "BetMGM",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 8 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Virginia Cavaliers."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T16:00:00Z",
+      "home_team": "St. John's Red Storm",
+      "away_team": "Providence Friars",
+      "consensus": {
+        "favorite": "St. John's Red Storm",
+        "spread": -10.8
+      },
+      "adjusted": {
+        "favorite": "St. John's Red Storm",
+        "spread": -11.8
+      },
+      "recommended_side": {
+        "team": "St. John's Red Storm",
+        "line": -10.8
+      },
+      "edge": 1.0,
+      "confidence": 85,
+      "sportsbooks": [
+        "FanDuel",
+        "LowVig.ag",
+        "BetOnline.ag",
+        "BetUS",
+        "BetRivers"
+      ],
+      "notes": "Live consensus from 5 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning St. John's Red Storm."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T16:30:00Z",
+      "home_team": "Missouri Tigers",
+      "away_team": "Kentucky Wildcats",
+      "consensus": {
+        "favorite": "Kentucky Wildcats",
+        "spread": -3.2
+      },
+      "adjusted": {
+        "favorite": "Kentucky Wildcats",
+        "spread": -4.3
+      },
+      "recommended_side": {
+        "team": "Kentucky Wildcats",
+        "line": -3.2
+      },
+      "edge": 1.1,
+      "confidence": 84,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "DraftKings",
+        "FanDuel",
+        "BetRivers",
+        "BetUS",
+        "BetMGM",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 8 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Kentucky Wildcats."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T16:30:30Z",
+      "home_team": "Texas Tech Red Raiders",
+      "away_team": "Iowa State Cyclones",
+      "consensus": {
+        "favorite": "Iowa State Cyclones",
+        "spread": -5.4
+      },
+      "adjusted": {
+        "favorite": "Iowa State Cyclones",
+        "spread": -6.4
+      },
+      "recommended_side": {
+        "team": "Iowa State Cyclones",
+        "line": -5.4
+      },
+      "edge": 1.0,
+      "confidence": 86,
+      "sportsbooks": [
+        "FanDuel",
+        "LowVig.ag",
+        "BetOnline.ag",
+        "DraftKings",
+        "BetRivers",
+        "BetUS",
+        "BetMGM",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 8 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Iowa State Cyclones."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T17:30:00Z",
+      "home_team": "Toledo Rockets",
+      "away_team": "Bowling Green Falcons",
+      "consensus": {
+        "favorite": "Toledo Rockets",
+        "spread": -1.2
+      },
+      "adjusted": {
+        "favorite": "Toledo Rockets",
+        "spread": -2.2
+      },
+      "recommended_side": {
+        "team": "Toledo Rockets",
+        "line": -1.2
+      },
+      "edge": 1.0,
+      "confidence": 84,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "FanDuel",
+        "DraftKings",
+        "BetMGM",
+        "BetRivers",
+        "Bovada",
+        "BetUS"
+      ],
+      "notes": "Live consensus from 8 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Toledo Rockets."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T18:00:00Z",
+      "home_team": "Texas Southern Tigers",
+      "away_team": "Alabama A&M Bulldogs",
+      "consensus": {
+        "favorite": "Alabama A&M Bulldogs",
+        "spread": -1.1
+      },
+      "adjusted": {
+        "favorite": "Alabama A&M Bulldogs",
+        "spread": -2.2
+      },
+      "recommended_side": {
+        "team": "Alabama A&M Bulldogs",
+        "line": -1.1
+      },
+      "edge": 1.1,
+      "confidence": 84,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "BetRivers",
+        "DraftKings",
+        "FanDuel"
+      ],
+      "notes": "Live consensus from 5 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Alabama A&M Bulldogs."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T18:00:00Z",
+      "home_team": "Southern Jaguars",
+      "away_team": "Arkansas-Pine Bluff Golden Lions",
+      "consensus": {
+        "favorite": "Southern Jaguars",
+        "spread": -4.7
+      },
+      "adjusted": {
+        "favorite": "Southern Jaguars",
+        "spread": -5.7
+      },
+      "recommended_side": {
+        "team": "Southern Jaguars",
+        "line": -4.7
+      },
+      "edge": 1.0,
+      "confidence": 85,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "BetRivers",
+        "DraftKings",
+        "FanDuel",
+        "BetMGM"
+      ],
+      "notes": "Live consensus from 6 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Southern Jaguars."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T18:00:00Z",
+      "home_team": "George Mason Patriots",
+      "away_team": "St. Bonaventure Bonnies",
+      "consensus": {
+        "favorite": "George Mason Patriots",
+        "spread": -3.2
+      },
+      "adjusted": {
+        "favorite": "George Mason Patriots",
+        "spread": -4.2
+      },
+      "recommended_side": {
+        "team": "George Mason Patriots",
+        "line": -3.2
+      },
+      "edge": 1.0,
+      "confidence": 85,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "FanDuel",
+        "BetRivers",
+        "BetUS",
+        "BetMGM",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 7 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning George Mason Patriots."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T18:30:00Z",
+      "home_team": "Seton Hall Pirates",
+      "away_team": "Creighton Bluejays",
+      "consensus": {
+        "favorite": "Seton Hall Pirates",
+        "spread": -3.0
+      },
+      "adjusted": {
+        "favorite": "Seton Hall Pirates",
+        "spread": -4.1
+      },
+      "recommended_side": {
+        "team": "Seton Hall Pirates",
+        "line": -3.0
+      },
+      "edge": 1.1,
+      "confidence": 84,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "DraftKings",
+        "FanDuel",
+        "BetMGM",
+        "BetRivers",
+        "Bovada",
+        "BetUS"
+      ],
+      "notes": "Live consensus from 8 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Seton Hall Pirates."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T18:30:00Z",
+      "home_team": "Miami Hurricanes",
+      "away_team": "Louisville Cardinals",
+      "consensus": {
+        "favorite": "Louisville Cardinals",
+        "spread": -2.0
+      },
+      "adjusted": {
+        "favorite": "Louisville Cardinals",
+        "spread": -3.1
+      },
+      "recommended_side": {
+        "team": "Louisville Cardinals",
+        "line": -2.0
+      },
+      "edge": 1.1,
+      "confidence": 84,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "FanDuel",
+        "BetUS",
+        "DraftKings",
+        "BetMGM",
+        "BetRivers",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 8 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Louisville Cardinals."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T18:30:00Z",
+      "home_team": "Wisconsin Badgers",
+      "away_team": "Washington Huskies",
+      "consensus": {
+        "favorite": "Wisconsin Badgers",
+        "spread": -6.9
+      },
+      "adjusted": {
+        "favorite": "Wisconsin Badgers",
+        "spread": -8.0
+      },
+      "recommended_side": {
+        "team": "Wisconsin Badgers",
+        "line": -6.9
+      },
+      "edge": 1.1,
+      "confidence": 84,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "FanDuel",
+        "DraftKings",
+        "BetUS",
+        "BetMGM",
+        "BetRivers"
+      ],
+      "notes": "Live consensus from 7 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Wisconsin Badgers."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T19:00:00Z",
+      "home_team": "Arizona Wildcats",
+      "away_team": "UCF Knights",
+      "consensus": {
+        "favorite": "Arizona Wildcats",
+        "spread": -16.3
+      },
+      "adjusted": {
+        "favorite": "Arizona Wildcats",
+        "spread": -17.3
+      },
+      "recommended_side": {
+        "team": "Arizona Wildcats",
+        "line": -16.3
+      },
+      "edge": 1.0,
+      "confidence": 85,
+      "sportsbooks": [
+        "DraftKings",
+        "LowVig.ag",
+        "BetOnline.ag",
+        "FanDuel",
+        "BetUS",
+        "BetRivers",
+        "BetMGM"
+      ],
+      "notes": "Live consensus from 7 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Arizona Wildcats."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T19:00:00Z",
+      "home_team": "Tennessee Volunteers",
+      "away_team": "Auburn Tigers",
+      "consensus": {
+        "favorite": "Tennessee Volunteers",
+        "spread": -5.6
+      },
+      "adjusted": {
+        "favorite": "Tennessee Volunteers",
+        "spread": -6.7
+      },
+      "recommended_side": {
+        "team": "Tennessee Volunteers",
+        "line": -5.6
+      },
+      "edge": 1.1,
+      "confidence": 83,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "DraftKings",
+        "FanDuel",
+        "BetUS",
+        "BetMGM",
+        "BetRivers"
+      ],
+      "notes": "Live consensus from 7 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Tennessee Volunteers."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T19:00:00Z",
+      "home_team": "Utah State Aggies",
+      "away_team": "UNLV Rebels",
+      "consensus": {
+        "favorite": "Utah State Aggies",
+        "spread": -6.7
+      },
+      "adjusted": {
+        "favorite": "Utah State Aggies",
+        "spread": -7.7
+      },
+      "recommended_side": {
+        "team": "Utah State Aggies",
+        "line": -6.7
+      },
+      "edge": 1.0,
+      "confidence": 85,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "DraftKings",
+        "FanDuel",
+        "BetUS",
+        "BetMGM",
+        "BetRivers"
+      ],
+      "notes": "Live consensus from 7 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Utah State Aggies."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T20:00:00Z",
+      "home_team": "Akron Zips",
+      "away_team": "Buffalo Bulls",
+      "consensus": {
+        "favorite": "Akron Zips",
+        "spread": -13.5
+      },
+      "adjusted": {
+        "favorite": "Akron Zips",
+        "spread": -14.4
+      },
+      "recommended_side": {
+        "team": "Akron Zips",
+        "line": -13.5
+      },
+      "edge": 0.9,
+      "confidence": 87,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "FanDuel",
+        "BetMGM",
+        "BetRivers",
+        "BetUS",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 7 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Akron Zips."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T21:00:00Z",
+      "home_team": "Duquesne Dukes",
+      "away_team": "Rhode Island Rams",
+      "consensus": {
+        "favorite": "Duquesne Dukes",
+        "spread": -1.9
+      },
+      "adjusted": {
+        "favorite": "Duquesne Dukes",
+        "spread": -2.9
+      },
+      "recommended_side": {
+        "team": "Duquesne Dukes",
+        "line": -1.9
+      },
+      "edge": 1.0,
+      "confidence": 84,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "DraftKings",
+        "BetRivers",
+        "FanDuel",
+        "BetMGM",
+        "Bovada",
+        "BetUS"
+      ],
+      "notes": "Live consensus from 8 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Duquesne Dukes."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T21:30:00Z",
+      "home_team": "Grand Canyon Antelopes",
+      "away_team": "Nevada Wolf Pack",
+      "consensus": {
+        "favorite": "Grand Canyon Antelopes",
+        "spread": -1.8
+      },
+      "adjusted": {
+        "favorite": "Grand Canyon Antelopes",
+        "spread": -2.8
+      },
+      "recommended_side": {
+        "team": "Grand Canyon Antelopes",
+        "line": -1.8
+      },
+      "edge": 1.0,
+      "confidence": 84,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "FanDuel",
+        "BetMGM"
+      ],
+      "notes": "Live consensus from 4 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Grand Canyon Antelopes."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T22:00:00Z",
+      "home_team": "Norfolk St Spartans",
+      "away_team": "South Carolina St Bulldogs",
+      "consensus": {
+        "favorite": "Norfolk St Spartans",
+        "spread": -7.2
+      },
+      "adjusted": {
+        "favorite": "Norfolk St Spartans",
+        "spread": -8.3
+      },
+      "recommended_side": {
+        "team": "Norfolk St Spartans",
+        "line": -7.2
+      },
+      "edge": 1.1,
+      "confidence": 84,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "BetRivers",
+        "DraftKings",
+        "FanDuel",
+        "BetMGM"
+      ],
+      "notes": "Live consensus from 6 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Norfolk St Spartans."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T22:30:00Z",
+      "home_team": "Kent State Golden Flashes",
+      "away_team": "Ohio Bobcats",
+      "consensus": {
+        "favorite": "Kent State Golden Flashes",
+        "spread": -3.7
+      },
+      "adjusted": {
+        "favorite": "Kent State Golden Flashes",
+        "spread": -4.7
+      },
+      "recommended_side": {
+        "team": "Kent State Golden Flashes",
+        "line": -3.7
+      },
+      "edge": 1.0,
+      "confidence": 85,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "FanDuel",
+        "BetMGM",
+        "DraftKings",
+        "BetRivers",
+        "BetUS",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 8 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Kent State Golden Flashes."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T22:30:00Z",
+      "home_team": "Louisiana Tech Bulldogs",
+      "away_team": "Middle Tennessee Blue Raiders",
+      "consensus": {
+        "favorite": "Middle Tennessee Blue Raiders",
+        "spread": -1.6
+      },
+      "adjusted": {
+        "favorite": "Middle Tennessee Blue Raiders",
+        "spread": -2.7
+      },
+      "recommended_side": {
+        "team": "Middle Tennessee Blue Raiders",
+        "line": -1.6
+      },
+      "edge": 1.1,
+      "confidence": 84,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "BetRivers",
+        "FanDuel",
+        "DraftKings",
+        "BetUS",
+        "BetMGM"
+      ],
+      "notes": "Live consensus from 7 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Middle Tennessee Blue Raiders."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T22:30:39Z",
+      "home_team": "Purdue Boilermakers",
+      "away_team": "Northwestern Wildcats",
+      "consensus": {
+        "favorite": "Purdue Boilermakers",
+        "spread": -11.2
+      },
+      "adjusted": {
+        "favorite": "Purdue Boilermakers",
+        "spread": -12.4
+      },
+      "recommended_side": {
+        "team": "Purdue Boilermakers",
+        "line": -11.2
+      },
+      "edge": 1.2,
+      "confidence": 80,
+      "sportsbooks": [
+        "FanDuel",
+        "BetOnline.ag",
+        "LowVig.ag",
+        "DraftKings"
+      ],
+      "notes": "Live consensus from 4 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Purdue Boilermakers."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T23:00:00Z",
+      "home_team": "Georgia Bulldogs",
+      "away_team": "Ole Miss Rebels",
+      "consensus": {
+        "favorite": "Georgia Bulldogs",
+        "spread": -6.5
+      },
+      "adjusted": {
+        "favorite": "Georgia Bulldogs",
+        "spread": -7.7
+      },
+      "recommended_side": {
+        "team": "Georgia Bulldogs",
+        "line": -6.5
+      },
+      "edge": 1.2,
+      "confidence": 82,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "DraftKings",
+        "FanDuel"
+      ],
+      "notes": "Live consensus from 4 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Georgia Bulldogs."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T23:00:00Z",
+      "home_team": "UConn Huskies",
+      "away_team": "Xavier Musketeers",
+      "consensus": {
+        "favorite": "UConn Huskies",
+        "spread": -14.2
+      },
+      "adjusted": {
+        "favorite": "UConn Huskies",
+        "spread": -15.2
+      },
+      "recommended_side": {
+        "team": "UConn Huskies",
+        "line": -14.2
+      },
+      "edge": 1.0,
+      "confidence": 84,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "FanDuel",
+        "DraftKings"
+      ],
+      "notes": "Live consensus from 4 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning UConn Huskies."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T23:00:40Z",
+      "home_team": "Houston Cougars",
+      "away_team": "BYU Cougars",
+      "consensus": {
+        "favorite": "Houston Cougars",
+        "spread": -7.8
+      },
+      "adjusted": {
+        "favorite": "Houston Cougars",
+        "spread": -8.8
+      },
+      "recommended_side": {
+        "team": "Houston Cougars",
+        "line": -7.8
+      },
+      "edge": 1.0,
+      "confidence": 85,
+      "sportsbooks": [
+        "FanDuel",
+        "BetOnline.ag",
+        "LowVig.ag"
+      ],
+      "notes": "Live consensus from 3 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Houston Cougars."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-12T23:30:00Z",
+      "home_team": "Davidson Wildcats",
+      "away_team": "Loyola (Chi) Ramblers",
+      "consensus": {
+        "favorite": "Davidson Wildcats",
+        "spread": -6.5
+      },
+      "adjusted": {
+        "favorite": "Davidson Wildcats",
+        "spread": -7.4
+      },
+      "recommended_side": {
+        "team": "Davidson Wildcats",
+        "line": -6.5
+      },
+      "edge": 0.9,
+      "confidence": 87,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "DraftKings",
+        "FanDuel",
+        "BetRivers",
+        "BetUS",
+        "BetMGM"
+      ],
+      "notes": "Live consensus from 7 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Davidson Wildcats."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-13T00:30:00Z",
+      "home_team": "North Carolina Central Eagles",
+      "away_team": "Maryland-Eastern Shore Hawks",
+      "consensus": {
+        "favorite": "North Carolina Central Eagles",
+        "spread": -1.5
+      },
+      "adjusted": {
+        "favorite": "North Carolina Central Eagles",
+        "spread": -2.4
+      },
+      "recommended_side": {
+        "team": "North Carolina Central Eagles",
+        "line": -1.5
+      },
+      "edge": 0.9,
+      "confidence": 87,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "BetRivers",
+        "DraftKings",
+        "FanDuel",
+        "BetMGM"
+      ],
+      "notes": "Live consensus from 6 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning North Carolina Central Eagles."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-13T01:00:00Z",
+      "home_team": "Western Kentucky Hilltoppers",
+      "away_team": "Kennesaw St Owls",
+      "consensus": {
+        "favorite": "Western Kentucky Hilltoppers",
+        "spread": -1.5
+      },
+      "adjusted": {
+        "favorite": "Western Kentucky Hilltoppers",
+        "spread": -2.4
+      },
+      "recommended_side": {
+        "team": "Western Kentucky Hilltoppers",
+        "line": -1.5
+      },
+      "edge": 0.9,
+      "confidence": 87,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "DraftKings",
+        "BetRivers",
+        "FanDuel",
+        "BetUS",
+        "BetMGM",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 8 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning Western Kentucky Hilltoppers."
+    },
+    {
+      "sport": "NCAA Basketball",
+      "start_time": "2026-03-13T01:00:00Z",
+      "home_team": "UT-Arlington Mavericks",
+      "away_team": "Southern Utah Thunderbirds",
+      "consensus": {
+        "favorite": "UT-Arlington Mavericks",
+        "spread": -5.5
+      },
+      "adjusted": {
+        "favorite": "UT-Arlington Mavericks",
+        "spread": -6.4
+      },
+      "recommended_side": {
+        "team": "UT-Arlington Mavericks",
+        "line": -5.5
+      },
+      "edge": 0.9,
+      "confidence": 87,
+      "sportsbooks": [
+        "BetOnline.ag",
+        "LowVig.ag",
+        "BetRivers",
+        "DraftKings",
+        "FanDuel",
+        "BetUS",
+        "BetMGM",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 8 books. Adjusted line applies a transparent ncaa basketball home-edge and bookmaker-agreement weighting, leaning UT-Arlington Mavericks."
+    },
+    {
+      "sport": "NBA",
+      "start_time": "2026-03-11T23:42:00Z",
+      "home_team": "Orlando Magic",
+      "away_team": "Cleveland Cavaliers",
+      "consensus": {
+        "favorite": "Orlando Magic",
+        "spread": -3.9
+      },
+      "adjusted": {
+        "favorite": "Orlando Magic",
+        "spread": -4.9
+      },
+      "recommended_side": {
+        "team": "Orlando Magic",
+        "line": -3.9
+      },
+      "edge": 1.0,
+      "confidence": 80,
+      "sportsbooks": [
+        "FanDuel",
+        "DraftKings",
+        "MyBookie.ag",
+        "BetRivers",
+        "BetMGM",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 6 books. Adjusted line applies a transparent nba home-edge and bookmaker-agreement weighting, leaning Orlando Magic."
+    },
+    {
+      "sport": "NBA",
+      "start_time": "2026-03-12T00:12:00Z",
+      "home_team": "New Orleans Pelicans",
+      "away_team": "Toronto Raptors",
+      "consensus": {
+        "favorite": "New Orleans Pelicans",
+        "spread": -8.2
+      },
+      "adjusted": {
+        "favorite": "New Orleans Pelicans",
+        "spread": -9.2
+      },
+      "recommended_side": {
+        "team": "New Orleans Pelicans",
+        "line": -8.2
+      },
+      "edge": 1.0,
+      "confidence": 78,
+      "sportsbooks": [
+        "FanDuel",
+        "MyBookie.ag",
+        "DraftKings",
+        "BetRivers",
+        "Bovada",
+        "BetMGM"
+      ],
+      "notes": "Live consensus from 6 books. Adjusted line applies a transparent nba home-edge and bookmaker-agreement weighting, leaning New Orleans Pelicans."
+    },
+    {
+      "sport": "NBA",
+      "start_time": "2026-03-12T01:11:00Z",
+      "home_team": "Utah Jazz",
+      "away_team": "New York Knicks",
+      "consensus": {
+        "favorite": "New York Knicks",
+        "spread": -4.8
+      },
+      "adjusted": {
+        "favorite": "New York Knicks",
+        "spread": -6.2
+      },
+      "recommended_side": {
+        "team": "New York Knicks",
+        "line": -4.8
+      },
+      "edge": 1.4,
+      "confidence": 72,
+      "sportsbooks": [
+        "FanDuel",
+        "Bovada",
+        "MyBookie.ag",
+        "DraftKings",
+        "BetRivers",
+        "BetMGM"
+      ],
+      "notes": "Live consensus from 6 books. Adjusted line applies a transparent nba home-edge and bookmaker-agreement weighting, leaning New York Knicks."
+    },
+    {
+      "sport": "NBA",
+      "start_time": "2026-03-12T02:10:00Z",
+      "home_team": "Sacramento Kings",
+      "away_team": "Charlotte Hornets",
+      "consensus": {
+        "favorite": "Charlotte Hornets",
+        "spread": -14.2
+      },
+      "adjusted": {
+        "favorite": "Charlotte Hornets",
+        "spread": -15.0
+      },
+      "recommended_side": {
+        "team": "Charlotte Hornets",
+        "line": -14.2
+      },
+      "edge": 0.8,
+      "confidence": 83,
+      "sportsbooks": [
+        "FanDuel",
+        "DraftKings",
+        "BetUS",
+        "LowVig.ag",
+        "BetOnline.ag",
+        "MyBookie.ag",
+        "BetRivers",
+        "BetMGM",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 9 books. Adjusted line applies a transparent nba home-edge and bookmaker-agreement weighting, leaning Charlotte Hornets."
+    },
+    {
+      "sport": "NBA",
+      "start_time": "2026-03-12T02:10:00Z",
+      "home_team": "Denver Nuggets",
+      "away_team": "Houston Rockets",
+      "consensus": {
+        "favorite": "Denver Nuggets",
+        "spread": -6.9
+      },
+      "adjusted": {
+        "favorite": "Denver Nuggets",
+        "spread": -7.7
+      },
+      "recommended_side": {
+        "team": "Denver Nuggets",
+        "line": -6.9
+      },
+      "edge": 0.8,
+      "confidence": 84,
+      "sportsbooks": [
+        "FanDuel",
+        "DraftKings",
+        "LowVig.ag",
+        "BetOnline.ag",
+        "BetMGM",
+        "MyBookie.ag",
+        "BetRivers",
+        "Bovada",
+        "BetUS"
+      ],
+      "notes": "Live consensus from 9 books. Adjusted line applies a transparent nba home-edge and bookmaker-agreement weighting, leaning Denver Nuggets."
+    },
+    {
+      "sport": "NBA",
+      "start_time": "2026-03-12T02:40:00Z",
+      "home_team": "Los Angeles Clippers",
+      "away_team": "Minnesota Timberwolves",
+      "consensus": {
+        "favorite": "Los Angeles Clippers",
+        "spread": -1.4
+      },
+      "adjusted": {
+        "favorite": "Los Angeles Clippers",
+        "spread": -2.2
+      },
+      "recommended_side": {
+        "team": "Los Angeles Clippers",
+        "line": -1.4
+      },
+      "edge": 0.8,
+      "confidence": 84,
+      "sportsbooks": [
+        "FanDuel",
+        "DraftKings",
+        "LowVig.ag",
+        "BetOnline.ag",
+        "BetRivers",
+        "MyBookie.ag",
+        "BetUS",
+        "BetMGM",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 9 books. Adjusted line applies a transparent nba home-edge and bookmaker-agreement weighting, leaning Los Angeles Clippers."
+    },
+    {
+      "sport": "NBA",
+      "start_time": "2026-03-12T23:10:00Z",
+      "home_team": "Detroit Pistons",
+      "away_team": "Philadelphia 76ers",
+      "consensus": {
+        "favorite": "Detroit Pistons",
+        "spread": -14.5
+      },
+      "adjusted": {
+        "favorite": "Detroit Pistons",
+        "spread": -15.2
+      },
+      "recommended_side": {
+        "team": "Detroit Pistons",
+        "line": -14.5
+      },
+      "edge": 0.7,
+      "confidence": 85,
+      "sportsbooks": [
+        "FanDuel",
+        "DraftKings",
+        "BetOnline.ag",
+        "LowVig.ag",
+        "BetRivers",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 6 books. Adjusted line applies a transparent nba home-edge and bookmaker-agreement weighting, leaning Detroit Pistons."
+    },
+    {
+      "sport": "NBA",
+      "start_time": "2026-03-12T23:10:00Z",
+      "home_team": "Indiana Pacers",
+      "away_team": "Phoenix Suns",
+      "consensus": {
+        "favorite": "Phoenix Suns",
+        "spread": -8.8
+      },
+      "adjusted": {
+        "favorite": "Phoenix Suns",
+        "spread": -9.6
+      },
+      "recommended_side": {
+        "team": "Phoenix Suns",
+        "line": -8.8
+      },
+      "edge": 0.8,
+      "confidence": 83,
+      "sportsbooks": [
+        "FanDuel",
+        "DraftKings",
+        "BetOnline.ag",
+        "LowVig.ag",
+        "BetRivers",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 6 books. Adjusted line applies a transparent nba home-edge and bookmaker-agreement weighting, leaning Phoenix Suns."
+    },
+    {
+      "sport": "NBA",
+      "start_time": "2026-03-12T23:10:00Z",
+      "home_team": "Orlando Magic",
+      "away_team": "Washington Wizards",
+      "consensus": {
+        "favorite": "Orlando Magic",
+        "spread": -14.2
+      },
+      "adjusted": {
+        "favorite": "Orlando Magic",
+        "spread": -15.2
+      },
+      "recommended_side": {
+        "team": "Orlando Magic",
+        "line": -14.2
+      },
+      "edge": 1.0,
+      "confidence": 78,
+      "sportsbooks": [
+        "FanDuel",
+        "BetOnline.ag",
+        "LowVig.ag",
+        "MyBookie.ag"
+      ],
+      "notes": "Live consensus from 4 books. Adjusted line applies a transparent nba home-edge and bookmaker-agreement weighting, leaning Orlando Magic."
+    },
+    {
+      "sport": "NBA",
+      "start_time": "2026-03-12T23:40:00Z",
+      "home_team": "Atlanta Hawks",
+      "away_team": "Brooklyn Nets",
+      "consensus": {
+        "favorite": "Atlanta Hawks",
+        "spread": -14.1
+      },
+      "adjusted": {
+        "favorite": "Atlanta Hawks",
+        "spread": -15.0
+      },
+      "recommended_side": {
+        "team": "Atlanta Hawks",
+        "line": -14.1
+      },
+      "edge": 0.9,
+      "confidence": 81,
+      "sportsbooks": [
+        "FanDuel",
+        "BetOnline.ag",
+        "LowVig.ag",
+        "DraftKings",
+        "BetRivers",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 6 books. Adjusted line applies a transparent nba home-edge and bookmaker-agreement weighting, leaning Atlanta Hawks."
+    },
+    {
+      "sport": "NBA",
+      "start_time": "2026-03-12T23:40:00Z",
+      "home_team": "Miami Heat",
+      "away_team": "Milwaukee Bucks",
+      "consensus": {
+        "favorite": "Miami Heat",
+        "spread": -6.2
+      },
+      "adjusted": {
+        "favorite": "Miami Heat",
+        "spread": -7.0
+      },
+      "recommended_side": {
+        "team": "Miami Heat",
+        "line": -6.2
+      },
+      "edge": 0.8,
+      "confidence": 83,
+      "sportsbooks": [
+        "FanDuel",
+        "DraftKings",
+        "BetOnline.ag",
+        "LowVig.ag",
+        "BetRivers",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 6 books. Adjusted line applies a transparent nba home-edge and bookmaker-agreement weighting, leaning Miami Heat."
+    },
+    {
+      "sport": "NBA",
+      "start_time": "2026-03-13T00:10:00Z",
+      "home_team": "Memphis Grizzlies",
+      "away_team": "Dallas Mavericks",
+      "consensus": {
+        "favorite": "Dallas Mavericks",
+        "spread": -4.2
+      },
+      "adjusted": {
+        "favorite": "Dallas Mavericks",
+        "spread": -5.0
+      },
+      "recommended_side": {
+        "team": "Dallas Mavericks",
+        "line": -4.2
+      },
+      "edge": 0.8,
+      "confidence": 83,
+      "sportsbooks": [
+        "FanDuel",
+        "DraftKings",
+        "BetOnline.ag",
+        "LowVig.ag",
+        "BetRivers",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 6 books. Adjusted line applies a transparent nba home-edge and bookmaker-agreement weighting, leaning Dallas Mavericks."
+    },
+    {
+      "sport": "NBA",
+      "start_time": "2026-03-13T01:10:00Z",
+      "home_team": "San Antonio Spurs",
+      "away_team": "Denver Nuggets",
+      "consensus": {
+        "favorite": "San Antonio Spurs",
+        "spread": -5.1
+      },
+      "adjusted": {
+        "favorite": "San Antonio Spurs",
+        "spread": -6.1
+      },
+      "recommended_side": {
+        "team": "San Antonio Spurs",
+        "line": -5.1
+      },
+      "edge": 1.0,
+      "confidence": 79,
+      "sportsbooks": [
+        "FanDuel",
+        "LowVig.ag",
+        "BetOnline.ag",
+        "MyBookie.ag",
+        "DraftKings"
+      ],
+      "notes": "Live consensus from 5 books. Adjusted line applies a transparent nba home-edge and bookmaker-agreement weighting, leaning San Antonio Spurs."
+    },
+    {
+      "sport": "NBA",
+      "start_time": "2026-03-13T01:40:00Z",
+      "home_team": "Oklahoma City Thunder",
+      "away_team": "Boston Celtics",
+      "consensus": {
+        "favorite": "Oklahoma City Thunder",
+        "spread": -6.8
+      },
+      "adjusted": {
+        "favorite": "Oklahoma City Thunder",
+        "spread": -7.6
+      },
+      "recommended_side": {
+        "team": "Oklahoma City Thunder",
+        "line": -6.8
+      },
+      "edge": 0.8,
+      "confidence": 83,
+      "sportsbooks": [
+        "FanDuel",
+        "DraftKings",
+        "BetOnline.ag",
+        "LowVig.ag",
+        "BetRivers",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 6 books. Adjusted line applies a transparent nba home-edge and bookmaker-agreement weighting, leaning Oklahoma City Thunder."
+    },
+    {
+      "sport": "NBA",
+      "start_time": "2026-03-13T02:40:00Z",
+      "home_team": "Los Angeles Lakers",
+      "away_team": "Chicago Bulls",
+      "consensus": {
+        "favorite": "Los Angeles Lakers",
+        "spread": -10.2
+      },
+      "adjusted": {
+        "favorite": "Los Angeles Lakers",
+        "spread": -11.0
+      },
+      "recommended_side": {
+        "team": "Los Angeles Lakers",
+        "line": -10.2
+      },
+      "edge": 0.8,
+      "confidence": 83,
+      "sportsbooks": [
+        "FanDuel",
+        "BetOnline.ag",
+        "LowVig.ag",
+        "DraftKings",
+        "BetRivers",
+        "Bovada"
+      ],
+      "notes": "Live consensus from 6 books. Adjusted line applies a transparent nba home-edge and bookmaker-agreement weighting, leaning Los Angeles Lakers."
+    }
+  ]
+}
